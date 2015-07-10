@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Fri 10 Jul 2015 23:34:29
+Last Modified : Fri 10 Jul 2015 23:58:35
 Maintainer    : sharlaran
 -->
 
@@ -30,8 +30,8 @@ _новый концепт_
 ## Содержание ##
     00. Way of codding - Вступление
     01. Way of Codding - Основы
-    02. Way of Codding - Важное
-    03. Way of Codding - Vim   
+    [02.](./src/ru/02.md) Way of Codding - Важное
+    [03.](./src/ru/03.md) Way of Codding - Vim   
         03.01 Way of Codding - Vim: Настройка .vimrc
         03.02 Way of Codding - Vim: Плагины
     04. Way of Codding - Linux

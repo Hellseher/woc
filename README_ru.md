@@ -1,0 +1,49 @@
+<!--
+File          : README_ru.md
+
+Created       : Fri 10 Jul 2015 18:46:49
+Last Modified : Fri 10 Jul 2015 22:30:42
+Maintainer    : sharlaran
+-->
+
+
+# Way of Codding #
+__новый концепт__
+
+## Вступление ##
+    Всем привет, в этой серии мини статей я постараюсь описать путь становления
+    самурая... ну и как начать кодить быстро и, надеюсь, эффективно.  Статьи
+    будут добавляться и пополнятся по мере накопления мыслей, заметок,наработок
+    и ссылок. В основном буду описывать то, что сам получил из своегоопыта.
+    Небольшие руководства и записки рецептов, все это будет исписано вдоступной
+    форме.
+
+## Источники ##
+    [ru] http://habrahabr.ru/
+    [ru] https://xakep.ru/
+    [ru] http://www.linux.org.ru/
+    [ru] http://unixforum.org/
+
+    [Hacker's News](https://news.ycombinator.com/)
+    [en] http://www.phrack.org/
+
+## Содержание ##
+00. Way of codding - Вступление
+01. Way of Codding - Основы
+02. Way of Codding - Важное
+03. Way of Codding - Vim   
+    03.01 Way of Codding - Vim: Настройка .vimrc
+    03.02 Way of Codding - Vim: Плагины
+04. Way of Codding - Linux
+    04.01 Way of Codding - Linux: Установка
+    04.02 Way of Codding - Linux: Рабочая среда
+05. Way of Codding - Fron End
+    05.01 Way of Codding - Front End: HTML
+    05.02 Way of Codding - Front End: CSS
+    05.03 Way of Codding - Front End: JavaScript
+        05.03 Way ofCodding - Fron End: JavaScrip - jQuery
+    05.04 Way of Codding - Front End: графика SVG
+    05.05 Way of Codding - Front End: Фреймворки06. Way of Codding - Git
+07. Way of Codding - Back End08. Way of Codding - Python
+09. Way of Codding - Основы Computer Science10. Way of Codding - Проэкт[ы]
+

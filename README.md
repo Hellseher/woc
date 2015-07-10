@@ -1,0 +1,2 @@
+# woc
+Way of Codding

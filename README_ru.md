@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Fri 10 Jul 2015 23:25:03
+Last Modified : Fri 10 Jul 2015 23:30:11
 Maintainer    : sharlaran
 -->
 
@@ -19,13 +19,13 @@ _новый концепт_
     форме.
 
 ## Источники ##
-[ru] http://habrahabr.ru/
-[ru] https://xakep.ru/
-[ru] http://www.linux.org.ru/
-[ru] http://unixforum.org/
+*   [Хабрахабр](http://habrahabr.ru/)
+*   [Журнал Xakep](https://xakep.ru/)
+*   [ЛОР](http://www.linux.org.ru/)
+*   [Юниксфорум](http://unixforum.org/)
 
-[Hacker's News](https://news.ycombinator.com/)
-[en] http://www.phrack.org/
+*   [Hacker's News](https://news.ycombinator.com/)
+*   [Phrack Magazine](http://www.phrack.org/)
 
 ## Содержание ##
     00. Way of codding - Вступление

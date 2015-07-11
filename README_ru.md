@@ -2,13 +2,13 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Sat 11 Jul 2015 00:14:42
+Last Modified : Sat 11 Jul 2015 11:53:29
 Maintainer    : sharlaran
 -->
 
 
 # 00. Way of Codding - Вступление #
-_новый концепт_
+\[[01.](./src/ru/01.md)\]
 
 ## Приветсвие ##
 Всем привет, в этой серии мини статей я постараюсь описать путь становления  

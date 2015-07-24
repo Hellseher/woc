@@ -2,7 +2,7 @@
 File          : README.md
 
 Created       : Fri 24 Jul 2015 07:58:11
-Last Modified : Fri 24 Jul 2015 08:06:37
+Last Modified : Fri 24 Jul 2015 08:07:33
 Maintainer    : sharlaran
 -->
 
@@ -21,6 +21,7 @@ added.
 
 ## Links ##
 _news aggregators and info sources_
+
 [Хабрахабр](http://habrahabr.ru/ "Новостной сайт")  
 [Xakep](https://xakep.ru/ "Информационный журнал")  
 [ЛОР](http://www.linux.org.ru/ "Информационный портал")  

@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Fri 24 Jul 2015 07:57:14
+Last Modified : Fri 24 Jul 2015 08:07:28
 Maintainer    : sharlaran
 -->
 
@@ -48,7 +48,7 @@ Maintainer    : sharlaran
 09. Way of Codding - Основы Computer Science10. Way of Codding - Проэкт[ы]  
 
 ## Ссылки ##
-_новостные и информационные ресурсы_  
+_новостные и информационные ресурсы_
 
 [Хабрахабр](http://habrahabr.ru/ "Новостной сайт")  
 [Xakep](https://xakep.ru/ "Информационный журнал")  

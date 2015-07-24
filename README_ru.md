@@ -2,11 +2,11 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Fri 24 Jul 2015 07:51:30
+Last Modified : Fri 24 Jul 2015 07:57:14
 Maintainer    : sharlaran
 -->
 
-
+\[[english](./README.md)\]
 # 00. Way of Codding - Вступление #
 \[[01.](./src/ru/01.md)\]
 
@@ -49,12 +49,13 @@ Maintainer    : sharlaran
 
 ## Ссылки ##
 _новостные и информационные ресурсы_  
+
 [Хабрахабр](http://habrahabr.ru/ "Новостной сайт")  
 [Xakep](https://xakep.ru/ "Информационный журнал")  
 [ЛОР](http://www.linux.org.ru/ "Информационный портал")  
 [Юниксфорум](http://unixforum.org/ "Информационный портал")  
 
-[slashdot](http://slashdot.org/ "News board")  
-[Hacker's News](https://news.ycombinator.com/ "News board")  
+[slashdot](http://slashdot.org/ "New aggregator")  
+[Hacker's News](https://news.ycombinator.com/ "News aggregator")  
 [Phrack Magazine](http://www.phrack.org/ "Security Magazine")  
 [it-ebooks](http://it-ebooks.info "Free to download IT books")  

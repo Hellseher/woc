@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Fri 24 Jul 2015 07:24:24
+Last Modified : Fri 24 Jul 2015 07:51:30
 Maintainer    : sharlaran
 -->
 
@@ -25,8 +25,6 @@ Maintainer    : sharlaran
 В самом тексте будут включены мини задания, и в дальнейшем будут добавлены
 конкретные задания.
 
-[Hacker's News](https://news.ycombinator.com/)  
-[Phrack Magazine](http://www.phrack.org/)  
 
 ## Содержание ##
 [00.](README_ru.md) Way of codding - Вступление  
@@ -49,9 +47,14 @@ Maintainer    : sharlaran
 07. Way of Codding - Back End08. Way of Codding - Python  
 09. Way of Codding - Основы Computer Science10. Way of Codding - Проэкт[ы]  
 
-## Источники ##
+## Ссылки ##
+_новостные и информационные ресурсы_  
 [Хабрахабр](http://habrahabr.ru/ "Новостной сайт")  
-[Журнал Xakep](https://xakep.ru/)  
-[ЛОР](http://www.linux.org.ru/)  
-[Юниксфорум](http://unixforum.org/)  
+[Xakep](https://xakep.ru/ "Информационный журнал")  
+[ЛОР](http://www.linux.org.ru/ "Информационный портал")  
+[Юниксфорум](http://unixforum.org/ "Информационный портал")  
 
+[slashdot](http://slashdot.org/ "News board")  
+[Hacker's News](https://news.ycombinator.com/ "News board")  
+[Phrack Magazine](http://www.phrack.org/ "Security Magazine")  
+[it-ebooks](http://it-ebooks.info "Free to download IT books")  

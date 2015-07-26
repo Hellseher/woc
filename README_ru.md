@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Mon 27 Jul 2015 00:14:07
+Last Modified : Mon 27 Jul 2015 00:14:39
 Maintainer    : sharlaran
 -->
 
@@ -40,7 +40,7 @@ Maintainer    : sharlaran
     *   05.01 Way of Codding - Front End: HTML  
     *   05.02 Way of Codding - Front End: CSS  
     *   05.03 Way of Codding - Front End: JavaScript  
-        *   05.03 Way ofCodding - Fron End: JavaScrip - jQuery  
+        *   05.03.01 Way ofCodding - Fron End: JavaScrip - jQuery  
     *   05.04 Way of Codding - Front End: графика SVG  
     *   05.05 Way of Codding - Front End: Фреймворки  
 *   06. Way of Codding - Git  

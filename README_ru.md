@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Fri 24 Jul 2015 08:07:28
+Last Modified : Mon 27 Jul 2015 00:13:05
 Maintainer    : sharlaran
 -->
 
@@ -31,11 +31,11 @@ Maintainer    : sharlaran
 [01.](./src/ru/01.md) Way of Codding - Основы  
 [02.](./src/ru/02.md) Way of Codding - Важное  
 [03.](./src/ru/03.md) Way of Codding - Vim   
-    03.01 Way of Codding - Vim: Настройка .vimrc
-    03.02 Way of Codding - Vim: Плагины 
+    03.01 Way of Codding - Vim: Настройка .vimrc  
+    03.02 Way of Codding - Vim: Плагины   
 04. Way of Codding - Linux  
-    04.01 Way of Codding - Linux: Установка
-    04.02 Way of Codding - Linux: Рабочая среда
+    04.01 Way of Codding - Linux: Установка  
+    04.02 Way of Codding - Linux: Рабочая среда  
 05. Way of Codding - Fron End  
     05.01 Way of Codding - Front End: HTML  
     05.02 Way of Codding - Front End: CSS  
@@ -45,7 +45,9 @@ Maintainer    : sharlaran
     05.05 Way of Codding - Front End: Фреймворки  
 06. Way of Codding - Git  
 07. Way of Codding - Back End08. Way of Codding - Python  
-09. Way of Codding - Основы Computer Science10. Way of Codding - Проэкт[ы]  
+09. Way of Codding - Информатика
+    [09.01](./src/ru/09.01.md) Way of Codding - Информатика: концепты
+10. Way of Codding - Проэкт[ы]  
 
 ## Ссылки ##
 _новостные и информационные ресурсы_

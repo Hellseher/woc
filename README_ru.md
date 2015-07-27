@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Mon 27 Jul 2015 00:14:39
+Last Modified : Mon 27 Jul 2015 22:31:20
 Maintainer    : sharlaran
 -->
 
@@ -25,6 +25,22 @@ Maintainer    : sharlaran
 В самом тексте будут включены мини задания, и в дальнейшем будут добавлены
 конкретные задания.
 
+## Для начала ##
+Из самых необходимых навыков, которые пригодятся не только в кодинге, но и
+вообще по жизни это машинопись (дяситипалцевый набор текста). Если в твоем
+арсенале нет этого навыка, то настоятельно рекомендую пройти полный курс и
+размять пальчики
+
+Думаю с компьютером ты знакомился через ОС Windows от микромягких, и поэтому
+сформировались не совсем пригодные для работы навыки (частый набор одного и того
+же текста, копирование при помощи клавиатуры и еще куча всего). В WoC ты сможешь
+найти эффективные приемы по кодингу и работы с ПК, пользуясь ОС GNU/Linux
+\[[04.](./src/ru/04.md)\]
+
+Последовательность статей дана приблизительно, можно следовать хронологии, можно
+скакать от одной к другой, как считаешь удобным, главное схватить идею как все
+работает, потом уже можно будет читать только инструкции от разработчиков
+проектов, весьма очень обширные. 
 
 ## Содержание ##
 *   [00.](README_ru.md) Way of codding - Вступление  
@@ -52,12 +68,13 @@ Maintainer    : sharlaran
 ## Ссылки ##
 _новостные и информационные ресурсы_
 
-[Хабрахабр](http://habrahabr.ru/ "Новостной сайт")  
-[Xakep](https://xakep.ru/ "Информационный журнал")  
-[ЛОР](http://www.linux.org.ru/ "Информационный портал")  
-[Юниксфорум](http://unixforum.org/ "Информационный портал")  
+*   [Хабрахабр](http://habrahabr.ru/ "Новостной сайт")
+*   [Xakep](https://xakep.ru/ "Информационный журнал")
+*   [ЛОР](http://www.linux.org.ru/ "Информационный портал")
+*   [Юниксфорум](http://unixforum.org/ "Информационный портал")
 
-[slashdot](http://slashdot.org/ "New aggregator")  
-[Hacker's News](https://news.ycombinator.com/ "News aggregator")  
-[Phrack Magazine](http://www.phrack.org/ "Security Magazine")  
-[it-ebooks](http://it-ebooks.info "Free to download IT books")  
+*   [slashdot](http://slashdot.org/ "New aggregator")
+*   [Hacker's News](https://news.ycombinator.com/ "News aggregator")
+*   [Phrack Magazine](http://www.phrack.org/ "Security Magazine")
+*   [it-ebooks](http://it-ebooks.info "Free to download IT books")
+*   [StackOverflow](https://stackoverflow.com/ "Question & Answert dash board")

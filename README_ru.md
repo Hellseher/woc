@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Mon 27 Jul 2015 23:42:10
+Last Modified : Tue 28 Jul 2015 06:50:23
 Maintainer    : sharlaran
 -->
 
@@ -65,6 +65,8 @@ Maintainer    : sharlaran
 *   09. Way of Codding - Информати
     *   [09.01](./src/ru/09.01.md) Way of Codding - Информатика: концеп
 *   10. Way of Codding - Проэкт[ы]  
+*   [b](./src/ru/b.md) Way of Codding - Библиография
+*   [i](./src/ru/i.md) Way of Codding - Указатель
 
 ## Ссылки ##
 _новостные и информационные ресурсы_

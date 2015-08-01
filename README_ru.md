@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Sat 01 Aug 2015 22:41:21
+Last Modified : Sat 01 Aug 2015 22:57:09
 Maintainer    : sharlaran
 -->
 
@@ -45,26 +45,26 @@ Maintainer    : sharlaran
 ## Содержание ##
 *   [00.](README_ru.md) Way of codding - Вступление
 *   [01.](./src/ru/01.md) Way of Codding - Основы
-*   [02.](./src/ru/02.md) Way of Codding - Важное
+*   [02.](./src/ru/02.md) Way of Codding - Среда разработки
 *   [03.](./src/ru/03.md) Way of Codding - Vim 
     *   [03.01](./src/ru/03.01.md) Way of Codding - Vim: Настройка .vimrc
     *   [03.02](./src/ru/03.02.md) Way of Codding - Vim: Плагины 
 *   [04.](./src/ru/04.md) Way of Codding - Linux
-    *   [04.01](./src/ru/04.01.md)Way of Codding - Linux: Установка
-    *   [04.02](./src/ru/04.02.md)Way of Codding - Linux: Рабочая среда
+    *   [04.01](./src/ru/04.01.md) Way of Codding - Linux: Установка
+    *   [04.02](./src/ru/04.02.md) Way of Codding - Linux: Рабочая среда
     *   [04.03](./src/ru/04.03.md) Way of Codding - Linux: SSH
-    *   [04.04](./src/ru/04.04.md)Way of Codding - Linux: tmux
+    *   [04.04](./src/ru/04.04.md) Way of Codding - Linux: tmux
 *   05. Way of Codding - Front End
     *   05.01 Way of Codding - Front End: HTML
     *   05.02 Way of Codding - Front End: CSS
-    *   05.03 Way of Codding - Front End: JavaScript
+    *   [05.03](./src/ru/05.03.md) Way of Codding - Front End: JavaScript
         *   05.03.01 Way ofCodding - Fron End: JavaScrip - jQuery
     *   05.04 Way of Codding - Front End: графика SVG
     *   05.05 Way of Codding - Front End: Фреймворки
 *   06. Way of Codding - Git
 *   07. Way of Codding - Back End
 *   08. Way of Codding - Python
-*   09. Way of Codding - Информати
+*   09. Way of Codding - Информатика
     *   [09.01](./src/ru/09.01.md) Way of Codding - Информатика: концеп
 *   10. Way of Codding - Проэкт[ы]  
 *   [b](./src/ru/b.md) Way of Codding - Библиография

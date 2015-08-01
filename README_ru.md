@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Tue 28 Jul 2015 06:50:23
+Last Modified : Sat 01 Aug 2015 09:07:29
 Maintainer    : sharlaran
 -->
 
@@ -52,7 +52,7 @@ Maintainer    : sharlaran
 *   [04.](./src/ru/04.md) Way of Codding - Linux
     *   04.01 Way of Codding - Linux: Установка
     *   04.02 Way of Codding - Linux: Рабочая среда
-*   05. Way of Codding - Fron End
+*   05. Way of Codding - Front End
     *   05.01 Way of Codding - Front End: HTML
     *   05.02 Way of Codding - Front End: CSS
     *   05.03 Way of Codding - Front End: JavaScript
@@ -66,6 +66,7 @@ Maintainer    : sharlaran
     *   [09.01](./src/ru/09.01.md) Way of Codding - Информатика: концеп
 *   10. Way of Codding - Проэкт[ы]  
 *   [b](./src/ru/b.md) Way of Codding - Библиография
+*   [g](./src/ru/g.md) Way of Codding - Глосарий
 *   [i](./src/ru/i.md) Way of Codding - Указатель
 
 ## Ссылки ##

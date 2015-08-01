@@ -1,7 +1,7 @@
 File          : g.md
 
 Created       : Sat 01 Aug 2015 05:39:44
-Last Modified : Sat 01 Aug 2015 05:44:33
+Last Modified : Sat 01 Aug 2015 21:42:29
 Maintainer    : sharlatan
 
 
@@ -37,5 +37,8 @@ __agile__\[[↷](https://goo.gl/nJ7R5 "Agile software development")\]
 __repo, repository, репозиторий__ - место хранения поддерживаемого файла  
 __framework__ -  набор готовых шаблонов и кучей уже написанного кода.  
 __source code__ - исходный код программы четабельный для человека  
+__DevOps__  - методология разработки, связывает разработку и внедрение, что
+            - должно ускороить деплой и поддержку програмного обеспечения.
+            [[↷](https://en.wikipedia.org/wiki/DevOps "Wiki article")\]   
 
 

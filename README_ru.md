@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Sat 01 Aug 2015 09:07:29
+Last Modified : Sat 01 Aug 2015 22:41:21
 Maintainer    : sharlaran
 -->
 
@@ -48,10 +48,12 @@ Maintainer    : sharlaran
 *   [02.](./src/ru/02.md) Way of Codding - Важное
 *   [03.](./src/ru/03.md) Way of Codding - Vim 
     *   [03.01](./src/ru/03.01.md) Way of Codding - Vim: Настройка .vimrc
-    *   03.02 Way of Codding - Vim: Плагины 
+    *   [03.02](./src/ru/03.02.md) Way of Codding - Vim: Плагины 
 *   [04.](./src/ru/04.md) Way of Codding - Linux
-    *   04.01 Way of Codding - Linux: Установка
-    *   04.02 Way of Codding - Linux: Рабочая среда
+    *   [04.01](./src/ru/04.01.md)Way of Codding - Linux: Установка
+    *   [04.02](./src/ru/04.02.md)Way of Codding - Linux: Рабочая среда
+    *   [04.03](./src/ru/04.03.md) Way of Codding - Linux: SSH
+    *   [04.04](./src/ru/04.04.md)Way of Codding - Linux: tmux
 *   05. Way of Codding - Front End
     *   05.01 Way of Codding - Front End: HTML
     *   05.02 Way of Codding - Front End: CSS

@@ -1,0 +1,41 @@
+File          : g.md
+
+Created       : Sat 01 Aug 2015 05:39:44
+Last Modified : Sat 01 Aug 2015 05:44:33
+Maintainer    : sharlatan
+
+
+#  Way of Codding - Глосарий #
+
+__GNU/Linux__ - правильное название операционной системы , где проэкт GNU был
+              - начат для замены операционной системы UNIX. Представляет собой
+              - набор програм, компелятор и среду разработки. Linux это не
+              - достающее ядро законченой операционной системы..  
+__GNU__ - Gnu is Not Unix\[[↷](https://www.gnu.org/home.en.html "GNU OS")\]  
+__Linux__ - ядро операционной системы \[[↷](https://kernel.org/ "Linux Kernel")\]  
+__distro, distributive, дистрибутив__ - одна из сборок  GNU/Linux  
+
+__root__ - бог, король, босс системы :). что доступно ему не доступно  user_name!!!  
+__консоль, командная строка__\[[↷](https://goo.gl/rfjOh "Command-line interface")\]  
+__command prompt, приветствие__ - символ, готовность принять программу  
+__$:__ (доллар двоеточие) - команды от user_name  
+__\#:__ (хаш двоеточие) - команды от root  
+__sudo [programm]__ - на время стать root  
+__su__ - стать root на долго, пока не выйдешь (exit)  
+__man [programm__] - подробная встроенная справка  
+
+    $: man man
+
+__info [programm]__ - еще один источник информации о программе.  
+__package, пакет__ - способ распростроенния программ в \*nix системах.  
+__pacakge manager__  - програма по установке и манипуляции пакетами  
+__apt-get__ - менеджер пакетов используемый во все дистрибутивы Debian.  
+
+__Version Control System (VCS)__\[[↷](https://goo.gl/UV5dd9 "СУВ")\]  
+__deploy__\[[↷](https://goo.gl/spqxxk "Software deployment")\]  
+__agile__\[[↷](https://goo.gl/nJ7R5 "Agile software development")\]   
+__repo, repository, репозиторий__ - место хранения поддерживаемого файла  
+__framework__ -  набор готовых шаблонов и кучей уже написанного кода.  
+__source code__ - исходный код программы четабельный для человека  
+
+

@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Sat 01 Aug 2015 22:57:09
+Last Modified : Sun 02 Aug 2015 22:24:22
 Maintainer    : sharlaran
 -->
 
@@ -35,38 +35,38 @@ Maintainer    : sharlaran
 сформировались не совсем пригодные для работы навыки (частый набор одного и того
 же текста, копирование при помощи клавиатуры и еще куча всего). В WoC ты сможешь
 найти эффективные приемы по кодингу и работы с ПК, пользуясь ОС GNU/Linux
-\[[04.](./src/ru/04.md)\]
+\[[04.00](./src/ru/04.md)\]
 
-Последовательность статей дана приблизительно, можно следовать хронологии, можно
-скакать от одной к другой, как считаешь удобным, главное схватить идею как все
-работает, потом уже можно будет читать только инструкции от разработчиков
-проектов, весьма очень обширные. 
+Последовательность статей дана относительно структурированно , можно следовать
+хронологии, можно скакать от одной к другой, как считаешь удобным, главное
+схватить идею как все работает, потом уже можно будет читать только инструкции
+от разработчиков проектов, весьма очень обширные. 
 
 ## Содержание ##
 *   [00.](README_ru.md) Way of codding - Вступление
-*   [01.](./src/ru/01.md) Way of Codding - Основы
-*   [02.](./src/ru/02.md) Way of Codding - Среда разработки
-*   [03.](./src/ru/03.md) Way of Codding - Vim 
+*   [01.00.](./src/ru/01.00.md) Way of Codding - Основы
+*   [02.00.](./src/ru/02.00.md) Way of Codding - Среда разработки
+*   [03.00.](./src/ru/03.00.md) Way of Codding - Vim 
     *   [03.01](./src/ru/03.01.md) Way of Codding - Vim: Настройка .vimrc
     *   [03.02](./src/ru/03.02.md) Way of Codding - Vim: Плагины 
-*   [04.](./src/ru/04.md) Way of Codding - Linux
+*   [04.00.](./src/ru/04.00.md) Way of Codding - Linux
     *   [04.01](./src/ru/04.01.md) Way of Codding - Linux: Установка
     *   [04.02](./src/ru/04.02.md) Way of Codding - Linux: Рабочая среда
     *   [04.03](./src/ru/04.03.md) Way of Codding - Linux: SSH
     *   [04.04](./src/ru/04.04.md) Way of Codding - Linux: tmux
-*   05. Way of Codding - Front End
-    *   05.01 Way of Codding - Front End: HTML
-    *   05.02 Way of Codding - Front End: CSS
+*   [05.00.](./src/ru/05.00.md) Way of Codding - Front End
+    *   [05.01](./src/ru/05.01.md)Way of Codding - Front End: HTML
+    *   [05.02](./src/ru/05.02.md) Way of Codding - Front End: CSS
     *   [05.03](./src/ru/05.03.md) Way of Codding - Front End: JavaScript
-        *   05.03.01 Way ofCodding - Fron End: JavaScrip - jQuery
-    *   05.04 Way of Codding - Front End: графика SVG
-    *   05.05 Way of Codding - Front End: Фреймворки
-*   06. Way of Codding - Git
-*   07. Way of Codding - Back End
-*   08. Way of Codding - Python
-*   09. Way of Codding - Информатика
+        *  [05.03.01](./src/ru/05.03.01.md) Way ofCodding - Fron End: JavaScrip - jQuery
+    *  [05.04](./src/ru/05.04.md) Way of Codding - Front End: графика SVG
+    *  [05.05](./src/ru/05.05.md) Way of Codding - Front End: Фреймворки
+*  [06.00](./src/ru/06.00.md) Way of Codding - Git
+*  [07.00](./src/ru/07.00.md) Way of Codding - Back End
+*   [08.00](./src/ru/08.00.md) Way of Codding - Python
+*   [09.00](./src/ru/09.00.md) Way of Codding - Информатика
     *   [09.01](./src/ru/09.01.md) Way of Codding - Информатика: концеп
-*   10. Way of Codding - Проэкт[ы]  
+*   [10.00]( ./src/ru/10.00.md) Way of Codding - Проэкт
 *   [b](./src/ru/b.md) Way of Codding - Библиография
 *   [g](./src/ru/g.md) Way of Codding - Глосарий
 *   [i](./src/ru/i.md) Way of Codding - Указатель

@@ -2,7 +2,7 @@
 File          : g.md
 
 Created       : Sat 01 Aug 2015 05:39:44
-Last Modified : Wed 05 Aug 2015 21:40:57
+Last Modified : Wed 05 Aug 2015 21:41:40
 Maintainer    : sharlatan
 -->
 
@@ -21,7 +21,7 @@ _А. Б. Стругацкие "Трудно быть Богом"_
 \[[↷](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy "GNU/Linux")\]
 
 #### GNU ####
-__Gnu is Not Unix__
+_Gnu is Not Unix_
 
 
 \[[↷](https://www.gnu.org/home.en.html "GNU OS")\]

@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Sun 02 Aug 2015 22:24:22
+Last Modified : Wed 05 Aug 2015 21:24:00
 Maintainer    : sharlaran
 -->
 
@@ -35,7 +35,7 @@ Maintainer    : sharlaran
 сформировались не совсем пригодные для работы навыки (частый набор одного и того
 же текста, копирование при помощи клавиатуры и еще куча всего). В WoC ты сможешь
 найти эффективные приемы по кодингу и работы с ПК, пользуясь ОС GNU/Linux
-\[[04.00](./src/ru/04.md)\]
+\[[04.00](./src/ru/04.00.md)\]
 
 Последовательность статей дана относительно структурированно , можно следовать
 хронологии, можно скакать от одной к другой, как считаешь удобным, главное
@@ -51,7 +51,7 @@ Maintainer    : sharlaran
     *   [03.02](./src/ru/03.02.md) Way of Codding - Vim: Плагины 
 *   [04.00.](./src/ru/04.00.md) Way of Codding - Linux
     *   [04.01](./src/ru/04.01.md) Way of Codding - Linux: Установка
-    *   [04.02](./src/ru/04.02.md) Way of Codding - Linux: Рабочая среда
+    *   [04.02](./src/ru/04.02.md) Way of Codding - Linux: Консоль
     *   [04.03](./src/ru/04.03.md) Way of Codding - Linux: SSH
     *   [04.04](./src/ru/04.04.md) Way of Codding - Linux: tmux
 *   [05.00.](./src/ru/05.00.md) Way of Codding - Front End

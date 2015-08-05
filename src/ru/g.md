@@ -2,7 +2,7 @@
 File          : g.md
 
 Created       : Sat 01 Aug 2015 05:39:44
-Last Modified : Wed 05 Aug 2015 21:35:49
+Last Modified : Wed 05 Aug 2015 21:40:57
 Maintainer    : sharlatan
 -->
 
@@ -15,11 +15,16 @@ _А. Б. Стругацкие "Трудно быть Богом"_
 
 #### GNU/Linux ####
 Правильное название операционной системы , где проэкт GNU был начат для замены
-операционной системы UNIX. Представляет собой набор програм, компелятор и среду
-разработки. Linux это не достающее ядро законченой операционной системы..
+операционной системы UNIX, сделав ОС свободной (не путать "с отрытым исходным
+кодом"). Представляет собой набор программ, компелятор и среду разработки. Linux
+это не достающее ядро законченой операционной системы..
+\[[↷](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy "GNU/Linux")\]
 
 #### GNU ####
-Gnu is Not Unix\[[↷](https://www.gnu.org/home.en.html "GNU OS")\]  
+__Gnu is Not Unix__
+
+
+\[[↷](https://www.gnu.org/home.en.html "GNU OS")\]
 #### Linux ####
 ядро операционной системы \[[↷](https://kernel.org/ "Linux Kernel")\]  
 #### distro, distributive, дистрибутив ####

@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Thu 06 Aug 2015 06:44:10
+Last Modified : Thu 06 Aug 2015 07:00:26
 Maintainer    : sharlaran
 -->
 
@@ -54,7 +54,7 @@ _Грегори Бетисон "Разум и Природа"_
 *   [00.00](README_ru.md) Way of codding - Вступление
 *   [01.00.](./src/ru/01.00.md) Way of Codding - Основы
 *   [02.00.](./src/ru/02.00.md) Way of Codding - Среда разработки
-*   [03.00.](./src/ru/03.00.md) Way of Codding - Vim 
+*   [03.00.](./src/ru/03.00.md) Way of Codding - Редактор Vim 
     *   [03.01](./src/ru/03.01.md) Way of Codding - Vim: Настройка .vimrc
     *   [03.02](./src/ru/03.02.md) Way of Codding - Vim: Плагины  Vim
 *   [04.00.](./src/ru/04.00.md) Way of Codding - Linux

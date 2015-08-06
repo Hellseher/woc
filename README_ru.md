@@ -2,12 +2,12 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Wed 05 Aug 2015 22:33:33
+Last Modified : Thu 06 Aug 2015 06:35:44
 Maintainer    : sharlaran
 -->
 
 \[[english](./README.md)\]
-# 00. Way of Codding - Вступление #
+# 00.00 Way of Codding - Вступление #
 \[[01.00](./src/ru/01.00.md "Основные понятия")\]
 
 > ... как генетические изменения так и процессы называемые обучением являются
@@ -51,7 +51,7 @@ _Грегори Бетисон "Разум и Природа"_
 от разработчиков проектов, весьма очень обширные. 
 
 ## Содержание ##
-*   [00.](README_ru.md) Way of codding - Вступление
+*   [00.00](README_ru.md) Way of codding - Вступление
 *   [01.00.](./src/ru/01.00.md) Way of Codding - Основы
 *   [02.00.](./src/ru/02.00.md) Way of Codding - Среда разработки
 *   [03.00.](./src/ru/03.00.md) Way of Codding - Vim 

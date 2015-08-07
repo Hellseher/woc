@@ -2,7 +2,7 @@
 File          : i.md
 
 Created       : Tue 28 Jul 2015 06:52:14
-Last Modified : Sat 01 Aug 2015 22:02:04
+Last Modified : Thu 06 Aug 2015 18:08:14
 Maintainer    : sharlatan
 -->
 
@@ -25,6 +25,7 @@ Maintainer    : sharlatan
 *   Python
 *   Ruby
 *   scripting
+*   SEO
 *   sysadmin
 *   Systems Administration
 *   Systems maintenance

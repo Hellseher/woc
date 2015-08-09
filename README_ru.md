@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Thu 06 Aug 2015 07:00:26
+Last Modified : Sun 09 Aug 2015 23:46:09
 Maintainer    : sharlaran
 -->
 
@@ -54,6 +54,7 @@ _Грегори Бетисон "Разум и Природа"_
 *   [00.00](README_ru.md) Way of codding - Вступление
 *   [01.00.](./src/ru/01.00.md) Way of Codding - Основы
 *   [02.00.](./src/ru/02.00.md) Way of Codding - Среда разработки
+    *   [02.e](./src/ru/02.e.md)Way of Codding - Среда разработки: Задания
 *   [03.00.](./src/ru/03.00.md) Way of Codding - Редактор Vim 
     *   [03.01](./src/ru/03.01.md) Way of Codding - Vim: Настройка .vimrc
     *   [03.02](./src/ru/03.02.md) Way of Codding - Vim: Плагины  Vim
@@ -62,6 +63,8 @@ _Грегори Бетисон "Разум и Природа"_
     *   [04.02](./src/ru/04.02.md) Way of Codding - Linux: Консоль
     *   [04.03](./src/ru/04.03.md) Way of Codding - Linux: SSH
     *   [04.04](./src/ru/04.04.md) Way of Codding - Linux: tmux
+    *   [04.05](./src/ru/04.05.md) Way of Codding - Linux: регулярные выражения
+    *   [04.e](./src/ru/04.e.md) Way of Codding - Linux: Задания
 *   [05.00.](./src/ru/05.00.md) Way of Codding - Front End
     *   [05.01](./src/ru/05.01.md)Way of Codding - Front End: HTML
     *   [05.02](./src/ru/05.02.md) Way of Codding - Front End: CSS
@@ -90,6 +93,7 @@ _новостные и информационные ресурсы_
 
 *   [slashdot](http://slashdot.org/ "New aggregator")
 *   [Hacker's News](https://news.ycombinator.com/ "News aggregator")
-*   [Phrack Magazine](http://www.phrack.org/ "Security Magazine")
 *   [it-ebooks](http://it-ebooks.info "Free to download IT books")
 *   [StackOverflow](https://stackoverflow.com/ "Question & Answert dash board")
+*   [Phrack Magazine](http://www.phrack.org/ "Security Magazine")
+*   [boingboing](http://boingboing.net/ "zine")

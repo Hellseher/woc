@@ -2,7 +2,7 @@
 File          : b.md
 
 Created       : Mon 27 Jul 2015 22:41:32
-Last Modified : Wed 05 Aug 2015 22:17:54
+Last Modified : Sun 09 Aug 2015 23:09:16
 Maintainer    : sharlatan
 -->
 
@@ -18,6 +18,7 @@ Maintainer    : sharlatan
 *   Graham, Knuth and Patashnik _Concrete Mathematics_. Addison-Wesley PCI
 *   Gregory Bateson _Mind and Nature_. Flamingo
 *   Harold Abelson and others _Struc. and Interpr. of Comp.  Prog._.The MIT press
+*   Jan Goyvaerts  _Regular Expressions Cookbook_\[[↷](http://goo.gl/YxEjt)\]
 *   Mark Lutz and David Ascher _Learning Python_. O'Reilly
 *   Mark Lutz _Programming Python_. O'Reilly
 *   Mendel Cooper _Advanced Bash-Scripting Guide_ \[[↷](http://goo.gl/S3bV)\]

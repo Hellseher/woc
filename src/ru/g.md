@@ -2,7 +2,7 @@
 File          : g.md
 
 Created       : Sat 01 Aug 2015 05:39:44
-Last Modified : Wed 05 Aug 2015 21:41:40
+Last Modified : Sun 09 Aug 2015 23:46:10
 Maintainer    : sharlatan
 -->
 
@@ -27,6 +27,7 @@ _Gnu is Not Unix_
 \[[↷](https://www.gnu.org/home.en.html "GNU OS")\]
 #### Linux ####
 ядро операционной системы \[[↷](https://kernel.org/ "Linux Kernel")\]  
+
 #### distro, distributive, дистрибутив ####
 одна из сборок  GNU/Linux  
 
@@ -35,16 +36,16 @@ _Gnu is Not Unix_
 #### консоль, командная строка ####
 [↷](https://goo.gl/rfjOh "Command-line interface")\]  
 #### command prompt, приветствие ####
-символ, готовность принять программу  
-#### $: ####
-оллар двоеточие) - команды от user_name  
+символ, готовность принять программу, генерируется программой.
+#### \$: ####
+доллар двоеточие - команды от user_name
 #### \#: ####
-аш двоеточие) - команды от root  
+даш двоеточие - команды от root  
 #### sudo [programm] ####
 на время стать root  
 #### su ####
 стать root на долго, пока не выйдешь (exit)  
-#### man [programm ####
+#### man [programm] ####
 подробная встроенная справка  
 
     $: man man

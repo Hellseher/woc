@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Thu 13 Aug 2015 07:21:21
+Last Modified : Thu 13 Aug 2015 07:23:01
 Maintainer    : sharlaran
 -->
 
@@ -65,6 +65,7 @@ _Грегори Бетисон "Разум и Природа"_
     *   [04.04](./src/ru/04.04.md) Way of Codding - GNU/Linux: tmux
     *   [04.05](./src/ru/04.05.md) Way of Codding - GNU/Linux: regex
     *   [04.e](./src/ru/04.e.md) Way of Codding - GNU/Linux: Задания
+    *   [04.qa](./src/ru/04.qa.md) Way of Codding - GNU/Linux: Q & A
 *   [05.00.](./src/ru/05.00.md) Way of Codding - Front End
     *   [05.01](./src/ru/05.01.md)Way of Codding - Front End: HTML
     *   [05.02](./src/ru/05.02.md) Way of Codding - Front End: CSS

@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Thu 13 Aug 2015 07:23:01
+Last Modified : Thu 13 Aug 2015 07:38:04
 Maintainer    : sharlaran
 -->
 
@@ -73,8 +73,8 @@ _Грегори Бетисон "Разум и Природа"_
         *  [05.03.01](./src/ru/05.03.01.md) Way ofCodding - Fron End: JavaScrip - jQuery
     *  [05.04](./src/ru/05.04.md) Way of Codding - Front End: графика SVG
     *  [05.05](./src/ru/05.05.md) Way of Codding - Front End: Фреймворки
-*  [06.00](./src/ru/06.00.md) Way of Codding - Git
-*  [07.00](./src/ru/07.00.md) Way of Codding - Back End
+*   [06.00](./src/ru/06.00.md) Way of Codding - Git
+*   [07.00](./src/ru/07.00.md) Way of Codding - Back End
 *   [08.00](./src/ru/08.00.md) Way of Codding - Python
 *   [09.00](./src/ru/09.00.md) Way of Codding - Информатика
     *   [09.01](./src/ru/09.01.md) Way of Codding - Информатика: концеп

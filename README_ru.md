@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Thu 13 Aug 2015 07:38:04
+Last Modified : Sat 15 Aug 2015 23:33:44
 Maintainer    : sharlaran
 -->
 
@@ -60,7 +60,7 @@ _Грегори Бетисон "Разум и Природа"_
     *   [03.02](./src/ru/03.02.md) Way of Codding - Vim: Плагины  Vim
 *   [04.00.](./src/ru/04.00.md) Way of Codding - GNU/Linux
     *   [04.01](./src/ru/04.01.md) Way of Codding - GNU/Linux: Установка
-    *   [04.02](./src/ru/04.02.md) Way of Codding - GNU/Linux: Консоль
+    *   [04.02](./src/ru/04.02.md) Way of Codding - GNU/Linux: Терминал
     *   [04.03](./src/ru/04.03.md) Way of Codding - GNU/Linux: SSH
     *   [04.04](./src/ru/04.04.md) Way of Codding - GNU/Linux: tmux
     *   [04.05](./src/ru/04.05.md) Way of Codding - GNU/Linux: regex

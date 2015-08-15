@@ -2,10 +2,9 @@
 File          : b.md
 
 Created       : Mon 27 Jul 2015 22:41:32
-Last Modified : Sun 09 Aug 2015 23:09:16
+Last Modified : Sat 15 Aug 2015 07:44:51
 Maintainer    : sharlatan
 -->
-
 
 # Bibliography #
 *   Andrew S. Tanenbaum _Computer Networks_. Prentice Hall PTR
@@ -19,6 +18,7 @@ Maintainer    : sharlatan
 *   Gregory Bateson _Mind and Nature_. Flamingo
 *   Harold Abelson and others _Struc. and Interpr. of Comp.  Prog._.The MIT press
 *   Jan Goyvaerts  _Regular Expressions Cookbook_\[[↷](http://goo.gl/YxEjt)\]
+*   Jeffrey E.F. Friedl _Mastering Regular Expressions_ \[[↷](http://goo.gl/3lT9l)\]
 *   Mark Lutz and David Ascher _Learning Python_. O'Reilly
 *   Mark Lutz _Programming Python_. O'Reilly
 *   Mendel Cooper _Advanced Bash-Scripting Guide_ \[[↷](http://goo.gl/S3bV)\]

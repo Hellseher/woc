@@ -2,7 +2,7 @@
 File          : b.md
 
 Created       : Mon 27 Jul 2015 22:41:32
-Last Modified : Sat 15 Aug 2015 07:52:57
+Last Modified : Mon 17 Aug 2015 21:02:38
 Maintainer    : sharlatan
 -->
 
@@ -27,6 +27,7 @@ Maintainer    : sharlatan
 *   Paul Graham _Hackers & Painters_. O'Reilly 
 *   Peter Thiel _Zero to One_. Crown Business
 *   Robin Nixon _Learning PHP, MySQL & JavaScript_. O'Reilly
+*   Scott Chacon and Ben Straub _Pro Git_. Apress 2014 \[[↷](https://git-scm.com/book/en/v2)\]
 *   Scott Granneman _Linux - essential code and commands_. Developer's library
 *   Thomas H. Cormen and others _Introduction to Algorithms_. The MIT press
 

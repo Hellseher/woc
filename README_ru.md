@@ -2,7 +2,7 @@
 File          : README_ru.md
 
 Created       : Fri 10 Jul 2015 18:46:49
-Last Modified : Sat 15 Aug 2015 23:33:44
+Last Modified : Fri 21 Aug 2015 21:58:22
 Maintainer    : sharlaran
 -->
 
@@ -78,7 +78,7 @@ _Грегори Бетисон "Разум и Природа"_
 *   [08.00](./src/ru/08.00.md) Way of Codding - Python
 *   [09.00](./src/ru/09.00.md) Way of Codding - Информатика
     *   [09.01](./src/ru/09.01.md) Way of Codding - Информатика: концеп
-*   [10.00]( ./src/ru/10.00.md) Way of Codding - Проэкт
+*   [ap]( ./src/ru/ap.md) Way of Codding - Проэкт
 *   [b](./src/ru/b.md) Way of Codding - Библиография
 *   [g](./src/ru/g.md) Way of Codding - Глосарий
 *   [i](./src/ru/i.md) Way of Codding - Указатель
